@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&q=80&w=1000",
+    "title": "VocalLearn",
+    "description": "VocalLearn is a modern learning management platform with AI-powered voice sessions. Users can create and consume learning content like podcasts. The platform uses secure authentication, real-time database integration, and error monitoring to ensure scalability, reliability, and smooth learning experiences.",
+    "tags": ["Next.js", "Supabase", "TypeScript", "Clerk", "Vapi.ai", "Sentry"],
+    "repoLink": "https://github.com/SubhankarDey26/saas-app",
+    "demoLink": "https://saas-app-hazel.vercel.app/?utm=codolio"
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=1000",
+    "title": "Employee Management System (EMS)",
+    "description": "A task-driven Employee Management System built with React.js to efficiently manage teams and workflows. It includes role-based authentication, admin and employee dashboards, task lifecycle tracking, and a fully responsive dark-themed UI for seamless productivity.",
+    "tags": ["React.js", "Tailwind CSS"],
+    "repoLink": "https://github.com/SubhankarDey26/ems",
+    "demoLink": "https://ems-rf2e.vercel.app/?utm=codolio"
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?auto=format&fit=crop&q=80&w=1000",
+    "title": "DomSketch",
+    "description": "DomSketch is a browser-based visual design tool built using pure HTML, CSS, and Vanilla JavaScript. It supports drawing, dragging, resizing, layering, styling, exporting elements, and local storage persistence, delivering a Figma-like experience directly in the browser.",
+    "tags": ["HTML", "CSS", "JavaScript"],
+    "repoLink": "https://github.com/SubhankarDey26/DOMSketch",
+    "demoLink": "https://lnkd.in/gbJHDJKz"
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&q=80&w=1000",
+    "title": "KanbanBoard",
+    "description": "A lightweight Kanban Board application designed for visual workflow management. It organizes tasks into columns such as To Do, In Progress, and Done, helping users track progress clearly and improve productivity with a simple and intuitive interface.",
+    "tags": ["HTML", "CSS", "JavaScript"],
+    "repoLink": "https://github.com/SubhankarDey26/KANBAN-BOARD",
+    "demoLink": "https://kanban-board-147iz4dq3-subhankardey26s-projects.vercel.app/?utm=codolio"
+  },
+  {
+    "id": 5,
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&q=80&w=1000",
+    "title": "Virtual macOS Operating System",
+    "description": "A personal portfolio project that simulates a virtual macOS environment using React.js. It features interactive applications such as GitHub integration, Notes, Terminal, PDF viewer, Calendar, Spotify, and multiple desktop-style utilities for an immersive and engaging user experience.",
+    "tags": ["React.js", "JavaScript", "SCSS", "Portfolio", "UI/UX"],
+    "repoLink": "https://github.com/SubhankarDey26",
+    "demoLink": null
+  }
+]

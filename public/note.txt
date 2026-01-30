@@ -1,0 +1,99 @@
+/**
+ * @file: profile.config.ts
+ * @author: Engineering Portfolio
+ * @summary: A high-performance full-stack engineer.
+ */
+
+// --------------------------------------------------
+// 1. CORE DEPENDENCIES & SKILLS
+// --------------------------------------------------
+
+const TECH_STACK = {
+  frontend: [
+    "React.js",    // 100%
+    "Next.js",     // 95%
+    "TailwindCSS", // 90%
+    "Three.js",    // 70%
+  ],
+  backend: [
+    "Node.js",     // 90%
+    "PostgreSQL",  // 85%
+    "Redis",       // 75%
+    "Docker",      // 80%
+  ],
+Subhankar Dey — Summary & Notes
+
+Summary:
+I am a full-stack web developer focused on building modern web applications using React and Node.js. I build responsive UIs, scalable backends, and developer-friendly tooling.
+
+Contact:
+- Email: bnk.subhankar@gmail.com
+- Phone: +91 7047622800
+- Location: Bankura, West Bengal
+
+Skills (self-assessed):
+- Frontend:
+  - React.js: 100%
+  - Next.js: 95%
+  - Vue.js: 80%
+  - HTML/CSS: 95%
+  - JavaScript (Vanilla): 95%
+  - TypeScript: 85%
+  - Sass / SCSS: 90%
+  - Tailwind CSS: 90%
+- Backend:
+  - Node.js: 90%
+  - Express: 85%
+  - Python: 70%
+- Databases:
+  - MongoDB: 80%
+  - PostgreSQL: 80%
+  - MySQL: 75%
+- Tools & Cloud:
+  - Git: 95%
+  - Docker: 80%
+  - Vite / Webpack: 85%
+  - AWS: 75%
+  - Azure: 70%
+  - Heroku: 70%
+
+Experience:
+- Internship — Zidio Development (3 months)
+  - Role: Intern (Backend Engineer)
+
+
+- Developer — USC KIIT (Tech Society)
+  - Role: Backend Engineer
+  - Worked on backend systems: API endpoints, database integration, and server-side logic for projects run by the tech society.
+
+Projects (selected from GitHub):
+1) VocalLearn
+   - Description: A modern learning management platform with AI-powered voice sessions, secure authentication, and real-time database features.
+   - Tech: Next.js, Supabase, TypeScript, Clerk, Vapi.ai, Sentry
+   - Repo: https://github.com/SubhankarDey26/saas-app
+   - Demo: https://saas-app-hazel.vercel.app/?utm=codolio
+
+2) Employee Management System (EMS)
+   - Description: Task-driven EMS with role-based auth, admin/employee dashboards, task lifecycle tracking, and a responsive UI.
+   - Tech: React.js, Tailwind CSS
+   - Repo: https://github.com/SubhankarDey26/ems
+   - Demo: https://ems-rf2e.vercel.app/?utm=codolio
+
+3) DomSketch
+   - Description: Browser-based visual design tool supporting drawing, dragging, resizing, layering, styling, exporting, and local persistence.
+   - Tech: HTML, CSS, JavaScript
+   - Repo: https://github.com/SubhankarDey26/DOMSketch
+   - Demo: https://lnkd.in/gbJHDJKz
+
+4) KanbanBoard
+   - Description: Lightweight Kanban board for visual workflow management (To Do / In Progress / Done).
+   - Tech: HTML, CSS, JavaScript
+   - Repo: https://github.com/SubhankarDey26/KANBAN-BOARD
+   - Demo: https://kanban-board-147iz4dq3-subhankardey26s-projects.vercel.app/?utm=codolio
+
+5) Virtual macOS Operating System (this portfolio)
+   - Description: Personal portfolio project simulating a virtual macOS environment built with React, featuring interactive apps (GitHub, Notes, Terminal, PDF viewer, Spotify, etc.).
+   - Tech: React.js, JavaScript, SCSS
+   - Repo: https://github.com/SubhankarDey26
+
+
