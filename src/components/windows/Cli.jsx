@@ -25,10 +25,10 @@ Cloud: AWS, Azure, Heroku`, '#FF69B4')
             description: 'View my projects',
             usage: 'projects',
             fn: () => colorWrap(`1. Portfolio Website - React + Vite
-2. E-commerce Platform - MERN Stack
-3. Task Management App - Next.js
-4. Real-time Chat App - Socket.io
-5. Data Dashboard - React + Chart.js`, '#FFD700')
+2. AI-Image-Generation- MERN Stack
+3. Learning Mangament System - Next.js
+4. Employee Management System - React.js
+5. Visual Design Board - HTML CSS JS`, '#FFD700')
         },
         experience: {
             description: 'Display work experience',
@@ -83,7 +83,7 @@ Location: WestBengal Bankura`, '#1E90FF')
             description: 'View social media links',
             usage: 'social',
             fn: () => colorWrap(`LinkedIn: /in/subhankar-dey-617b4a243
-Portfolio: ankurprajapati.dev`, '#C71585')
+Portfolio: https://virtual-26jdhz78x-subhankardey26s-projects.vercel.app/`, '#C71585')
         },
         echo: {
             description: 'Echo a passed string',
