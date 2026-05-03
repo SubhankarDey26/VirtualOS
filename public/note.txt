@@ -96,4 +96,9 @@ Projects (selected from GitHub):
    - Tech: React.js, JavaScript, SCSS
    - Repo: https://github.com/SubhankarDey26
 
+6) SocialSync A platform to connect
+   - Description: A Place where People Can Connect with Each Other,Can Follow Each Other, Able to post Stuff here and more features comming Soon..
+   - Tech: MERN Stack ,ImageKit
+   - Repo: https://github.com/SubhankarDey26/SocialSync
+
 

@@ -43,5 +43,16 @@
     "tags": ["React.js", "JavaScript", "SCSS", "Portfolio", "UI/UX"],
     "repoLink": "https://github.com/SubhankarDey26",
     "demoLink": null
+  },
+  {
+    "id":6,
+    "image":"/SocialSync.jpg",
+    "title":"SocialSync",
+    "description":"A Place where People Can Connect with Each Other,Can Follow Each Other, Able to post Stuff here and more features comming Soon. ",
+    "tags":["SCSS","MongoDb","React.js","Node.js","Express.js","ImageKit"],
+    "repoLink":"https://github.com/SubhankarDey26/SocialSync",
+    "demoLink":"https://socialsync-tzox.onrender.com/login"
+
   }
+
 ]

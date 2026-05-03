@@ -28,7 +28,8 @@ Cloud: AWS, Azure, Heroku`, '#FF69B4')
 2. AI-Image-Generation- MERN Stack
 3. Learning Mangament System - Next.js
 4. Employee Management System - React.js
-5. Visual Design Board - HTML CSS JS`, '#FFD700')
+5. Visual Design Board - HTML CSS JS
+6. SocialSync - MERN STACK IMAGEKIT`, '#FFD700')
         },
         experience: {
             description: 'Display work experience',
